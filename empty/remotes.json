@@ -1,0 +1,16 @@
+{
+ "remotes": [
+  {
+   "name": "default",
+   "url": "https://ubootsartifacts.jfrog.io/artifactory/api/conan/default-conan-local",
+   "verify_ssl": true,
+   "disabled": true
+  },
+  {
+   "name": "testing",
+   "url": "https://ubootsartifacts.jfrog.io/artifactory/api/conan/testing-conan-local",
+   "verify_ssl": true,
+   "disabled": true
+  }
+ ]
+}
